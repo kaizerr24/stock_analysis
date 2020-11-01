@@ -194,7 +194,7 @@ class StockAnalysis:
 
         self.stockr.set(format(df_return[0]))
 
-        # If the data of the stock doesn't exist more for more than 100 days, the SMA won't work
+        # If the data of the stock doesn't exist for more than 100 days, the SMA won't work
         if endcon - startcon > timedelta(days=100):
             df_highestreturnstock = web.DataReader(df_return[0], data_source='yahoo',
                                                    start=startcon - timedelta(days=100), end=endcon)['Adj Close']
