@@ -35,6 +35,3 @@ For further informations, you can open the step-by-step user guide pdf.
   A step-by-step guide with images on how to use the program
 
 
-
-**Description**
-
