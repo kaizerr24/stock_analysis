@@ -11,7 +11,7 @@ In addition, the programm visualizes each data in various graphs and gives you a
 
 **Prerequisites**
 
-For the program to work, you need to run it with Python3.   
+For the program to work, you need to run it with Python3 (for example with PyCharm).   
 The following libraries need to be installed in order for the code to work:   
 Pandas, Datetime, Mathplotlib, Tkinder, Webbrowser, Random
 
