@@ -25,10 +25,12 @@ Pandas, Datetime, Mathplotlib, Tkinder, Webbrowser, Random
 5. If you want to have additional informations for each stock, you can simply click on the button "Stock Websites".   
    This will open the websites of each stock in yahoo finance where you will find more informations.   
    You can also click on "Yahoo Website" if you want to open the main yahoo finance website.    
+   
+For further informations, you can open the step-by-step user guide pdf.
 
 **File Descriptions**  
 - stock_analysis.py  
-  Codes of the program with desctriptions  
+  All codes used to create the stock analysis program with comments  
 - user_guide.pdf  
   A step-by-step guide with images on how to use the program
 
