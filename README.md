@@ -24,8 +24,8 @@ Pandas, Mathplotlib, Webbrowser, Random
    It will also show you the stock with the most volume, the stock with the highest return and the stock with the highest daily volatility as outputs in the console.   
 4. In additon you can visualize the stock prices, the returns and the volatility of each stock by clicking on the buttons in the "Stock Visualization" category.
 5. If you want to have additional informations for each stock, you can simply click on the button "Stock Websites"   
-   This will open the websites of each stock in finance yahoo where you will find more informations.   
-   You can also click on "Yahoo Website" if you want to open the main finance yahoo website.    
+   This will open the websites of each stock in yahoo finance where you will find more informations.   
+   You can also click on "Yahoo Website" if you want to open the main yahoo finance website.    
 
 **Files**
 
