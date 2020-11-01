@@ -2,8 +2,8 @@
 
 **About**   
 This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.   
-The goal of this project was to create a program that analyzes different stocks during a given time frame.   
-With this program you can enter various stocks and the time frame you want to analyze.    
+The goal of this project was to create a program that analyses different stocks during a given time frame.   
+With this program you can enter various stocks and the time frame you want to analyse.    
 As a result you will see the stocks with the most volume, highest return and highest daily volatility.    
 In addition, the program visualizes each data in various graphs and gives you additional informations.   
 
@@ -15,7 +15,7 @@ Pandas, Datetime, Mathplotlib, Tkinter, Webbrowser, Random
 
 **Instructions**
 1. Open stock_analysis_py and run the program.
-2. Input the stocks and the time frame you want to analyze. Make sure you enter the stocks with the right keys and the time frame in the given order.
+2. Input the stocks and the time frame you want to analyse. Make sure you enter the stocks with the right keys and the time frame in the given order.
    You can also click on "Set Random" to simulate the program with random stocks and a random time frame.
 3. Click on the button "Analyse Stocks".    
    This will first open up a graph where you can see the stock with the highest return and also, if possible, their 20-days/100-days simple moving average.   
