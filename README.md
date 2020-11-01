@@ -1,6 +1,7 @@
 **Stock Analysis with Python**
 
 **About**
+
 This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.
 The goal of the project was to create a program that analyzes different stocks during a certain time frame. 
 With this programm you can enter various stocks and the time frame you want to analyze. 
@@ -9,6 +10,7 @@ In addition, the programm visualizes each data in various graphs.
 
 
 **Pre-requisites**
+
 For the program to work, you can run it with Python3
 The following libraries need to be installed in order for the code to work:
 Pandas, Mathplotlib, Webbrowser, Random
