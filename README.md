@@ -1,4 +1,4 @@
-Group Project: Stock Analysis with Python.
+**Stock Analysis with Python**
 
 **About**
 This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.
