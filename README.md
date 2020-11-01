@@ -2,8 +2,8 @@
 
 **About**
 
-This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.
-The goal of the project was to create a program that analyzes different stocks during a certain time frame. 
+This is a student project for the course "Programming: Introduction Level" - University of St. Gallen. 
+The goal of the project was to create a program that analyzes different stocks during a certain time frame.
 With this programm you can enter various stocks and the time frame you want to analyze. 
 As a result you will see the stocks with the most volume, highest return and highest daily volatility. 
 In addition, the programm visualizes each data in various graphs.
@@ -11,7 +11,7 @@ In addition, the programm visualizes each data in various graphs.
 
 **Pre-requisites**
 
-For the program to work, you can run it with Python3
+For the program to work, you can run it with Python3.
 The following libraries need to be installed in order for the code to work:
 Pandas, Mathplotlib, Webbrowser, Random
 
