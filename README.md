@@ -26,32 +26,8 @@ Pandas, Mathplotlib, Webbrowser, Random
    You can also click on "Yahoo Website" if you want to open the main finance yahoo website 
 
 **Files**
-Code: /machinelearinig_vX.X.py
-PDF part of the code(has been integrated): /PDF.py
-Input datasets in csv: /data
-Output folder containing all the plots and the PDF reports: /output
+
 
 
 **Description**
-Data classification with supervised learning based on a predefined dataset including a comparison of different algorithms. 
-5 datasets available: Iris, Ecoli, Glass, Yeast and Leaves. Further datasets can be added but have to be cleansed (see /data.readme)
 
-In the beginning, all necessary libraries such as Numpy, Matplotlib, Pandas, Seaborn, Sklearn and FPDF were installed 
-The next step was retrieving datasets. We chose several datasets from The UCI Machine Learning Repository: Iris flowers, Ecoli and Leaves.
-Three of the datasets are multivariate and are based on real attributes. Similar attributes make these datasets applicable for classification 
-tasks while difference in samples' scale brings in value to our small research.
-To prepare the data for the research it has to be cleansed and brought to a common format: 
-the first line represents name vectors while first row is class vectors. All data used is numerical.
-
-After loading the datasets, plots are being generated in order to get initial feeling of the dataset.
-We created several discriptive statistical graphs: boxplot and scatter plot matrices.
-
-Afterwards, the dataset is being randomly split in two parts. One for classification purposes and one for validating if the classification has been correct.
-Hence, it is possible to evaluate which of the supervised learning algorithms that will be used afterwards performed with the highest accuracy.
-, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, GaussianNB and SVC.
-By using these algorithms and the dataset can be classified. A comparison of the classified data with the evaluation data is the basis to calculate the 
-model accuracy. Finally, the accuracy was calculated and visualized by a confusion matrix. The confusion matrix shows on the x axis the identified classes
-and on the y axis the correct class. In the best case, the identified class matches the evaluation class.
-
-As an ouput, the program generates a PDF that contains all parts of the classification including the plots of the dataset, the accuracy of the different models
-and the confusion matrix.
