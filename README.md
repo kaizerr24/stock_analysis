@@ -9,9 +9,9 @@ In addition, the program visualizes each data in various graphs and gives you ad
 
 
 **Prerequisites**   
-For the program to work, you need to run it with Python3 (for example with PyCharm).   
+For the program to work, the user needs to run it with Python3 (for example with PyCharm).   
 The following libraries need to be installed in order for the code to work:   
-Pandas, Datetime, Mathplotlib, Tkinder, Webbrowser, Random
+Pandas, Datetime, Mathplotlib, Tkinter, Webbrowser, Random
 
 **Instructions**
 1. Open stock_analysis_py and run the program.
