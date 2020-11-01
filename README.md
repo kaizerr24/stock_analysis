@@ -26,7 +26,7 @@ Pandas, Datetime, Mathplotlib, Tkinder, Webbrowser, Random
    This will open the websites of each stock in yahoo finance where you will find more informations.   
    You can also click on "Yahoo Website" if you want to open the main yahoo finance website.    
 
-**Files Description**  
+**File Descriptions**  
 - stock_analysis.py  
   Codes of the program with desctriptions  
 - user_guide.pdf  
