@@ -9,7 +9,7 @@ As a result you will see the stocks with the most volume, highest return and hig
 In addition, the programm visualizes each data in various graphs.   
 
 
-**Pre-requisites**
+**Prerequisites**
 
 For the program to work, you can run it with Python3.   
 The following libraries need to be installed in order for the code to work:   
