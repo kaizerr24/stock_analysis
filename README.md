@@ -15,7 +15,7 @@ Pandas, Datetime, Mathplotlib, Tkinter, Webbrowser, Random
 
 **Instructions**
 1. Open stock_analysis_py and run the program.
-2. Input the stocks and the time frame you want to analyse. Make sure you enter the stocks with the correct keys and the time frame in the given order.
+2. Input the stocks and the time frame you want to analyse. Make sure you enter the stocks with the correct keys and the time frame in the given order.  
    You can also click on "Set Random" to simulate the program with random stocks and a random time frame.
 3. Click on the button "Analyse Stocks".    
    This will first open up a graph where you can see the stock with the highest return and also, if possible, its 20-days/100-days simple moving average.   
