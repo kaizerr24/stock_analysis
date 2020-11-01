@@ -3,7 +3,7 @@
 **About**
 
 This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.   
-The goal of the project was to create a program that analyzes different stocks during a certain time frame.   
+The goal of this project was to create a program that analyzes different stocks during a certain time frame.   
 With this programm you can enter various stocks and the time frame you want to analyze.    
 As a result you will see the stocks with the most volume, highest return and highest daily volatility.    
 In addition, the programm visualizes each data in various graphs.   
