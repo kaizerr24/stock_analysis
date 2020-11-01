@@ -13,7 +13,7 @@ In addition, the programm visualizes each data in various graphs.
 
 For the program to work, you can run it with Python3.   
 The following libraries need to be installed in order for the code to work:   
-Pandas, Mathplotlib, Webbrowser, Random
+Pandas, Mathplotlib, Tkinder, Webbrowser, Random
 
 **Instructions**
 1. Start stock_analysis_py and run the program.
