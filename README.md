@@ -3,9 +3,9 @@
 **About**   
 This is a student project for the course "Programming: Introduction Level" - University of St. Gallen.   
 The goal of this project was to create a program that analyzes different stocks during a given time frame.   
-With this programm you can enter various stocks and the time frame you want to analyze.    
+With this program you can enter various stocks and the time frame you want to analyze.    
 As a result you will see the stocks with the most volume, highest return and highest daily volatility.    
-In addition, the programm visualizes each data in various graphs and gives you additional informations.   
+In addition, the program visualizes each data in various graphs and gives you additional informations.   
 
 
 **Prerequisites**   
@@ -26,7 +26,11 @@ Pandas, Datetime, Mathplotlib, Tkinder, Webbrowser, Random
    This will open the websites of each stock in yahoo finance where you will find more informations.   
    You can also click on "Yahoo Website" if you want to open the main yahoo finance website.    
 
-**Files**
+**Files Description**  
+- stock_analysis.py  
+  Codes of the program with desctriptions  
+- user_guide.pdf  
+  A step-by-step guide with images on how to use the program
 
 
 
