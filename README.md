@@ -23,15 +23,13 @@ Pandas Datareader, Pandas, Datetime, Mathplotlib, Tkinter, Webbrowser, Random
 4. In additon you can visualise the stock prices, the returns and the volatility of each stock by clicking on the respective buttons in the "Stock Visualisation" section.  
    If you want to adjust or edit the graphs, you can find the buttons to do this in the top left corner of each graph.
 5. If you want to have additional information for each stock key entered, you can simply click on the button "Stock Websites".   
-   This will open the websites of each stock in yahoo finance where you will find more informations.   
-   You can also click on "Yahoo Website" if you want to open the main yahoo finance website.    
+   This will open the websites of each stock in Yahoo Finance where you will find more information.   
+   You can also click on the button "Yahoo Website" if you want to open the main Yahoo Finance website.    
    
-For further informations, you can open the **step-by-step user guide** pdf.
+For further information, you can open the **step-by-step user guide** pdf.
 
 **File Descriptions**  
 - stock_analysis.py  
   The code used to create the stock analysis program including comments  
 - step-by-step_user_guide.pdf  
   A step-by-step guide with images on how to use the program
-
-
