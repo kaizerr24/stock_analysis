@@ -56,7 +56,7 @@ class StockAnalysis:
         l3.grid(row=2, column=2, sticky="w")
 
         l4 = tk.Label(root, text='Most Volume:', font='Times 10 italic')
-        l4.grid(row=6, column=2, sticky="w")
+        l4.grid(row=6, column=2, sticky="sw")
 
         l5 = tk.Label(root, textvariable=self.stockV)
         l5.grid(row=6, column=3, sticky="s")
