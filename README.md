@@ -31,5 +31,5 @@ For further information, you can open the **step-by-step user guide** pdf.
 **File Descriptions**  
 - stock_analysis.py  
   The code used to create the stock analysis program including comments  
-- step-by-step_user_guide.pdf  
+- step-by-step_userguide.pdf  
   A step-by-step guide with images on how to use the program
