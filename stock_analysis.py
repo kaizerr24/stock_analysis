@@ -9,7 +9,6 @@ import tkinter.messagebox
 import webbrowser as wbb
 import random
 
-
 # Creating the graphical user interface for the program
 class StockAnalysis:
     # This method is called when an object is created from the class
