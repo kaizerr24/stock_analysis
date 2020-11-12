@@ -26,7 +26,7 @@ Pandas Datareader, Pandas, Datetime, Matplotlib, Tkinter, Webbrowser, Random
    This will open the websites of each stock in Yahoo Finance where you will find more information.   
    You can also click on the button "Yahoo Website" if you want to open the main Yahoo Finance website.    
    
-For further information, you can open the **step-by-step user guide** pdf.
+For further information, you can open the **step-by-step_userguide** pdf.
 
 **File Descriptions**  
 - stock_analysis.py  
