@@ -11,7 +11,7 @@ In addition, the program visualises each data in various graphs and gives you ad
 **Prerequisites**   
 For the program to work, the user needs to run it with Python3 (for example with PyCharm).   
 The following libraries need to be installed in order for the code to work:   
-Pandas Datareader, Pandas, Datetime, Mathplotlib, Tkinter, Webbrowser, Random
+Pandas Datareader, Pandas, Datetime, Matplotlib, Tkinter, Webbrowser, Random
 
 **Instructions**
 1. Open **stock_analysis.py** and run the program.
